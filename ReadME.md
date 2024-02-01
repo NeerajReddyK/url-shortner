@@ -1,6 +1,7 @@
 # URL Shortener
 
 ## Description
+The code is written is Model-View-Controller(MVC) architecture
 #### Total project explanation in 3 points
 1. On POST request, takes a URL
 2. Generates a short-id for the URL provided
