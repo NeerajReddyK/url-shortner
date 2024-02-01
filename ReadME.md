@@ -1,8 +1,8 @@
 # URL Shortener
 
 ## Description
-#### Total project in 3 points
-1. On POST request, Takes a URL
+#### Total project explanation in 3 points
+1. On POST request, takes a URL
 2. Generates a short-id for the URL provided
 3. On GET request, takes short-id and redirects the client to the original URL provided on POST request.
 
