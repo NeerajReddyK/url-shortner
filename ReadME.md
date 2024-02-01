@@ -22,7 +22,9 @@ As shown in the figure:
 A short-id is generated for the URL provided. In this case, the generated short-id is:  'ct8exy'
 
 ![3](./images/3.png)
+
 On a web browser, request is made using short-id generated.
 
 ![4](./images/4.png)
+
 Based on the short-id, the client is redirected to the original URL provided while making a POST request. (openinapp.com)
